@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**mxlxn420/mxlxn420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **[Milán Martis]**, and I'm a **first-semester Computer Science (BSc) student** at the **University of Miskolc**.
 
-Here are some ideas to get you started:
+I'm deeply interested in the world of technology and excited to learn the ins and outs of software development. This GitHub profile will serve as a portfolio for my academic journey and personal projects.
+<img width="896" height="414" alt="banner rolam" src="https://github.com/user-attachments/assets/f79c293c-8420-450b-b7b2-5f888439402c" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Academics
+* **University:** University of Miskolc, Faculty of Mechanical Engineering and Informatics
+* **Major:** Computer Science (BSc)
+* **Status:** 1st Semester
+
+### 🌱 Current Focus
+Since I'm just starting my journey, I'm focusing on the fundamentals:
+* Understanding the basics of [C, HTML5, CSS and much more]
+* Developing algorithmic thinking
+* Learning to use version control (Git)
+
+### 🎯 My Goals
+In the near future, I aim to learn more about:
+* [Web Development]
+* [AI & Machine Learning]
