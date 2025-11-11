@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-My name is **[Milán Martis]**, and I'm a **first-semester Computer Science (BSc) student** at the **University of Miskolc**.
+My name is **Milán Martis**, and I'm a **first-semester Computer Science (BSc) student** at the **University of Miskolc**.
 
 I'm deeply interested in the world of technology and excited to learn the ins and outs of software development. This GitHub profile will serve as a portfolio for my academic journey and personal projects.
 
-<img width="896" height="414" alt="banner rolam" align="center" src="https://github.com/user-attachments/assets/f79c293c-8420-450b-b7b2-5f888439402c" />
+<img width="896" height="414" alt="banner rolam" text-align="center" src="https://github.com/user-attachments/assets/f79c293c-8420-450b-b7b2-5f888439402c" />
 
 ---
 
@@ -21,5 +21,5 @@ Since I'm just starting my journey, I'm focusing on the fundamentals:
 
 ### 🎯 My Goals
 In the near future, I aim to learn more about:
-* [Web Development]
-* [AI & Machine Learning]
+* Web Development
+* AI & Machine Learning
