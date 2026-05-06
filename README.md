@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is **Milán Martis**, and I'm a **first-semester Computer Science (BSc) student** at the **University of Miskolc**.
+My name is **Milán Martis**, and I'm a **second-semester Computer Science (BSc) student** at the **University of Miskolc**.
 
 I'm deeply interested in the world of technology and excited to learn the ins and outs of software development. This GitHub profile will serve as a portfolio for my academic journey and personal projects.
 
@@ -17,7 +17,6 @@ I'm deeply interested in the world of technology and excited to learn the ins an
 Since I'm just starting my journey, I'm focusing on the fundamentals:
 * Understanding the basics of [C, HTML5, CSS and much more]
 * Developing algorithmic thinking
-* Learning to use version control (Git)
 
 ### 🎯 My Goals
 In the near future, I aim to learn more about:
