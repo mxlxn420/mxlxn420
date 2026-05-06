@@ -11,7 +11,7 @@ I'm deeply interested in the world of technology and excited to learn the ins an
 ### 🎓 Academics
 * **University:** University of Miskolc, Faculty of Mechanical Engineering and Informatics
 * **Major:** Computer Science (BSc)
-* **Status:** 1st Semester
+* **Status:** 2nd Semester
 
 ### 🌱 Current Focus
 Since I'm just starting my journey, I'm focusing on the fundamentals:
