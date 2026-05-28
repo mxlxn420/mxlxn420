@@ -14,11 +14,8 @@ I'm deeply interested in the world of technology and excited to learn the ins an
 * **Status:** 2nd Semester
 
 ### 🌱 Current Focus
-Since I'm just starting my journey, I'm focusing on the fundamentals:
-* Understanding the basics of [C, HTML5, CSS and much more]
-* Developing algorithmic thinking
+Now I'm focusing on building my web developer brand:
+* Getting more projects to work on
 
 ### 🎯 My Goals
-In the near future, I aim to learn more about:
-* Web Development
-* AI & Machine Learning
+In the near future, I aim to be living of my web development business
